@@ -1,0 +1,21 @@
+# macOS Finder and filesystem metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# macOS volume and indexing metadata
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.apdisk
+
+# Text files
+*.txt
+
+# exe file 
+main 
